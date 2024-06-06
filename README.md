@@ -1,7 +1,5 @@
 ## APK-MRL:  An Adaptive Pre-training Framework with Knowledge-enhanced for Molecular Representation Learning ##
 
-![MIFS](./APK-MRL.png)
-
 This is the official implementation of  ["APK-MR: An Adaptive Pre-training Framework with Knowledge-enhanced for Molecular Representation Learning"](). In this work, we propose a novel self-supervised framework APK-MRL for molecular representation learning. APK-MRL emancipates molecular comparative learning from high data dependence, tedious manual trial-and-error, and absent domain knowledge, which limit the performance and applicability of existing methods.
 
 
