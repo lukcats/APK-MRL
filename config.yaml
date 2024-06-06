@@ -1,6 +1,6 @@
 batch_size: 512                         # batch size
 warm_up: 2                             # warm-up epochs
-epochs: 10                             # total number of epochs
+epochs: 500                             # total number of epochs
 
 load_model: None                        # resume training
 eval_every_n_epochs: 1                  # validation frequency
